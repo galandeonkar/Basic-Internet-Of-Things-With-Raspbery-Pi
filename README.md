@@ -1,1 +1,1 @@
-# Basic-Internet-Of-Things-With-Raspbery-Pi
+# Basic-Internet-of-Things-with-Raspberry-pi
